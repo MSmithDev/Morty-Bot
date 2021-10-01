@@ -1,0 +1,8 @@
+# Config Files
+config.json
+
+#Package lockfile
+package-lock.json
+
+#Node Moduls
+node_modules
